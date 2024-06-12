@@ -31,4 +31,4 @@ Welcome to my Github page!
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
   
 </p>
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChoesCode&show_icons=true&hide_border=true" />
