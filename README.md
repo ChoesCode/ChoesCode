@@ -18,7 +18,7 @@ int main()
 
 Welcome to my Github page! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align="right" alt="img" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width="50%" />
+<img align="right" alt="img" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50%" />
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
