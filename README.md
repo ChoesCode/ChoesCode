@@ -17,19 +17,19 @@ Welcome to my Github page!
 <p>
   
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
   
 </p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChoesCode&show_icons=true&hide_border=true" />
