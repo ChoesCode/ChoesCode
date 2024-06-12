@@ -25,7 +25,7 @@ Welcome to my Github page!
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![Go](https://img.shields.io/badge/-Github-000000?style=flat&logo=go)
+![Go](https://img.shields.io/badge/-go-000000?style=flat&logo=go)
 ![Flutter](https://img.shields.io/badge/-Github-000000?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Github-000000?style=flat&logo=dart)
 ![MySQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
