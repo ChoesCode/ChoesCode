@@ -17,7 +17,7 @@ Welcome to my Github page!
 <p>
   
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
