@@ -47,4 +47,4 @@ Welcome to my Github page! <img src="https://raw.githubusercontent.com/ABSphreak
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
   
 </p>
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChoesCode&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=sixRrs&show_icons=true&hide_border=true" />
