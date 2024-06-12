@@ -31,5 +31,4 @@ Welcome to my Github page!
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 </p>
