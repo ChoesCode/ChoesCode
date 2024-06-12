@@ -32,6 +32,7 @@ Welcome to my Github page!
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
   
 </p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ChoesCode&show_icons=true&hide_border=true" />
