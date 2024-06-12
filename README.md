@@ -14,6 +14,7 @@ Welcome to my Github page!
 
 #### computer: Programming languages and tools: 
 <p>
+  
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -28,5 +29,6 @@ Welcome to my Github page!
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+  
 </p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
