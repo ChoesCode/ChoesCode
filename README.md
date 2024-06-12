@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ChoesCode)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:l111il@163.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=blank)](https://www.instagram.com/choes.cn/)
 
 Welcome to my Github page!
 
