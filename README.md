@@ -2,8 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 ```c++
 #include <iostream>
 
@@ -18,7 +16,7 @@ int main()
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=blank)](https://www.instagram.com/choes.cn/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)](mailto:l111il@163.com)
 
-Welcome to my Github page!
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my Github page!
 
 <img align="right" alt="img" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width="50%" />
 
