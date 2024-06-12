@@ -19,6 +19,7 @@ Welcome to my Github page!
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
